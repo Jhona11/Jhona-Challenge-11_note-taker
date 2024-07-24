@@ -15,7 +15,7 @@ This application was developed to provide users with a platform for organizing t
 
 Live URL of Deployed Application: https://jhona-challenge-11-note-taker2.onrender.com/
 
-Live Screen Recording of Application Functionality: 
+Live Screen Recording of Application Functionality: https://watch.screencastify.com/v/NlbaeSI9EVfVeiMoiRc3
 
 ## Screenshots 
 <img width="1470" alt="Screenshot 1" src="/Develop/public/assets/screenshots/Note Taker-1.png">
