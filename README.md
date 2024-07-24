@@ -20,9 +20,9 @@ Live Screen Recording of Application Functionality:
 ## Screenshots 
 <img width="1470" alt="Screenshot 1" src="/Develop/public/assets/screenshots/Note Taker-1.png">
 
-<img width="1470" alt="Screenshot 2" src="/Develop/public/assets/screenshots/Note Taker-2.png">
+<img width="1470" alt="Screenshot 2" src="/Develop/public/assets/screenshots/Note Taker-2.jpg">
 
-<img width="1470" alt="Screenshot 3" src="/Develop/public/assets/screenshots/Note Taker-3.png">
+<img width="1470" alt="Screenshot 3" src="/Develop/public/assets/screenshots/Note Taker-3.jpg">
 ## Technologies Used
 
 This project is powered by Express.js and Node.js (v16.19.1), using JavaScript as the programming language. It incorporates uniqid and file system modules as dependencies.
